@@ -92,13 +92,6 @@ Replace `/var/services/homes/your_username/Weather-bot` with your actual script 
 
 The bot is now running smoothly, automatically posting accurate and timely weather updates!
 
-## Final Thoughts
-
-Automating simple but useful tasks like weather updates can streamline your daily routine and help maintain engagement with your audience.
-
-You can find the full code and more details on my GitHub repository:
-
-[Link to GitHub Repo]
 
 ---
 
